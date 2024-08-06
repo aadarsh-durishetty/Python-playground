@@ -1,0 +1,7 @@
+n = int(input())
+k = bin(n)
+l = oct(n)
+m = hex(n)
+print(k)
+print(l)
+print(m)
