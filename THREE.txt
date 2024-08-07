@@ -1,0 +1,2 @@
+Usually a file is kept on a permanent storage media, e.g. a hard drive disk.
+This is same as C Programming language used to do more complex problem.
